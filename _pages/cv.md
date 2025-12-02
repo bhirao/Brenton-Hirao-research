@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: true
 ---
 
-# Curriculum Vitae
+# My CV (December 2025)
 
 <iframe src="{{ site.baseurl }}/files/Hirao_Brenton_CV_2025.pdf" 
         width="100%" 
